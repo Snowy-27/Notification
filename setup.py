@@ -8,6 +8,6 @@ setup(
     author='Raphael Schubert',
     author_email='raphael.schubert@digitalbankscorp.com',
     license='unlicense',
-    packages=['ptolemaios'],
+    packages=['notification'],
     zip_safe=False
 )
